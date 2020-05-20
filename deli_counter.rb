@@ -1,3 +1,5 @@
 # Write your code here.
 
-line = []
+def line
+  line = []
+end 
